@@ -1,0 +1,5 @@
+Making RPM package list current at running time
+Useful for seeing which package corrupts system
+
+@author: ubbn
+@date: 2012-03-10
