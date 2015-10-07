@@ -23,7 +23,7 @@ function main(){
 	OUTDIR=$HOME/Documents
 
 	printLog "Preparing rpm list output"
-	rpm -qa -last | grep -v 'Nov 2011' > $OUTDIR/$OUTPUT
+	rpm -qa -last > $OUTDIR/$OUTPUT
 
 	printLog "Output dir: $OUTDIR"
 	printLog "Finished, saved as: $OUTPUT"
