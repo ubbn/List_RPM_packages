@@ -1,4 +1,4 @@
-#list-rpm-packages
+# List-rpm-packages
 
 Power of shell script is that regardless of its size, it helps to achieve completion of huge and tediously manual tasks with ease.
 
